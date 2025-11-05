@@ -1,2 +1,32 @@
 AS139283 Touch Online
 103.140.212.0/23
+
+Important IP Address
+--------------------
+tiktok
+23.212.164.17
+184.26.54.106
+
+fast.com	104.69.151.230
+ipv4-c002-dac001-summitbd-isp.1.oca.nflxvideo.net	157.119.185.134
+ipv4-c031-hkg001-ix.1.oca.nflxvideo.net	23.246.57.144
+ipv4-c056-bom001-ix.1.oca.nflxvideo.net	45.57.50.133
+ipv4-c071-sin001-ix.1.oca.nflxvideo.net	23.246.55.161
+ipv4-c080-sin001-ix.1.oca.nflxvideo.net	23.246.54.132
+
+WhatsApp
+57.144.143.32
+114.130.126.98
+
+Protocol	Port
+WhatsApp Call	UDP 3482
+WhatsApp Call	UDP 3478
+WhatsApp Chat	TCP 80
+WhatsApp Chat	TCP 443
+WhatsApp Chat	TCP 5222
+
+
+FreeFire specific 
+TCP (39003, 39698, 39779) and UDP (10001, 10003, 10012) ports for Garena's Free Fire
+
+PUBG The required ports are UDP 4380, TCP 27015-27030, and TCP 13000-14000

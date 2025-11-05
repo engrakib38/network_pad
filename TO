@@ -30,3 +30,11 @@ FreeFire specific
 TCP (39003, 39698, 39779) and UDP (10001, 10003, 10012) ports for Garena's Free Fire
 
 PUBG The required ports are UDP 4380, TCP 27015-27030, and TCP 13000-14000
+
+
+
+
+
+CDN - 162.159.128.0/19
+INT - 23.192.0.0/11
+

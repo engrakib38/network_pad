@@ -1,0 +1,9 @@
+Apple IP Through Apple Traffice for ISP
+========================================
+
+Origin AS	Announcement	Description
+AS714	IRR Valid17.0.0.0/8	Apple Inc
+AS714	IRR Valid17.128.0.0/9	Apple Inc
+AS714	IRR Valid17.248.128.0/17	Apple Inc
+AS714	IRR Parent Valid17.248.224.0/24	Apple Inc
+
